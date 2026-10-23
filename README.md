@@ -4,6 +4,9 @@ Sistema Especialista baseado em regras (Python + [Experta](https://github.com/ni
 web em [Streamlit](https://streamlit.io). O sistema entrevista o usuário e recomenda **uma entre 10 trilhas** de
 carreira em TI, exibindo as regras que justificam a decisão.
 
+## Demonstração
+[▶️ Assistir à demonstração do projeto (40 segundos)](https://github.com/JoaoP-Melo/Intelligent-Career-Consultant/issues/1#issuecomment-6356689938)
+
 ## Trilhas
 Back-end · Front-end & UI/UX · Ciência de Dados e ML · Engenharia de Dados · Cibersegurança · DevOps & SRE ·
 Computação em Nuvem · Mobile · QA · Gestão de Produtos
